@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edge Optimizer Service</title>
+    <style>
+        body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: #f4f7f6; }
+        .card { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; }
+        h1 { color: #2d3748; }
+        p { color: #718096; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Service Active</h1>
+        <p>The global edge node is running and optimizing assets.</p>
+        <small>Version 2.1.4 - System Stable</small>
+    </div>
+</body>
+</html>
