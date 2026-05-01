@@ -1,0 +1,12 @@
+{
+  "name": "edge-optimization-system",
+  "version": "2.1.4",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}

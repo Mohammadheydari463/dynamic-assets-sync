@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "global-asset-engine",
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/v2/sync/(.*)", "destination": "/api/engine" }
+  ],
+  "trailingSlash": false
+}
